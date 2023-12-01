@@ -1,0 +1,17 @@
+$mainColor: navy;
+
+body {
+	padding: 0 1rem;
+	font-family: sans-serif;
+
+	h1 {
+		color: $mainColor;
+	}
+
+	h2 {
+		color: $mainColor;
+		background-color: #ccc;
+		padding: .5rem
+	}
+}
+
