@@ -4,5 +4,23 @@
 		"isMarried": false,
 		"hasChildren": true,
 		"gender": "female"
+	},
+	{
+		"firstName": "Jacque",
+		"isMarried": false,
+		"hasChildren": false,
+		"gender": "male"
+	},
+	{
+		"firstName": "Hans",
+		"isMarried": true,
+		"hasChildren": true,
+		"gender": "male"
+	},
+	{
+		"firstName": "Christa",
+		"isMarried": false,
+		"hasChildren": false,
+		"gender": "female"
 	}
 ]
