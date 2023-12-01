@@ -1,4 +1,4 @@
-export const StringsNumbers = () => {
+export const TopicStringsNumbers = () => {
 
 const firstName = 'Georg';
 const age = 44;
