@@ -6,6 +6,6 @@ export const TopicBoolean = () => {
 
 	return /*html*/ `
 	<h2>Boolean</h2>
-	<p>${firstName} is ${isMarried ? 'married' : 'single'} and ${gender !== 'female' ? 'she' : 'he'} ${hasChildren ? 'has children' : "doesn't have children"}.</p>	
+	<p>${employee.firstName} is ${employee.isMarried ? 'married' : 'single'} and ${employee.gender === 'female' ? 'she' : 'he'} ${employee.hasChildren ? 'has children' : "doesn't have children"}.</p>	
 	`
 }

@@ -1,8 +1,8 @@
 [
 	{
-		"firstName": "Brent",
-		"isMarried": true,
-		"hasChildren": false,
-		"gender": "male"
+		"firstName": "Brenda",
+		"isMarried": false,
+		"hasChildren": true,
+		"gender": "female"
 	}
 ]
