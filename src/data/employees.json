@@ -22,5 +22,11 @@
 		"isMarried": false,
 		"hasChildren": false,
 		"gender": "female"
+	},
+	{
+		"firstName": "Chris",
+		"isMarried": true,
+		"hasChildren": true,
+		"gender": "male"
 	}
 ]

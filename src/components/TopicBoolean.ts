@@ -9,6 +9,7 @@ export const TopicBoolean = () => {
 
 	return /*html*/ `
 	<h2>Boolean</h2>
+	<h3>There are ${employees.length} employees:</h3>
 	${html}
 	`
 }
